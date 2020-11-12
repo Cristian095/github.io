@@ -1,0 +1,56 @@
+Ús de funcions callback, tant amb la sintaxi on la funció callback és anònima com amb la sintàxi on la funció callback té nom.
+
+
+https://jsfiddle.net/cristian095/dpq6h7mv/7/
+
+https://jsfiddle.net/cristian095/dpq6h7mv/20/
+
+https://jsfiddle.net/cristian095/dpq6h7mv/28/
+
+
+
+
+
+
+Ús de funcions callback rebent paràmetres i sense rebre paràmetres. 
+
+		https://jsfiddle.net/cristian095/wrn72osy/63/
+
+https://jsfiddle.net/cristian095/wrn72osy/75/
+
+
+
+Ús de bucles
+
+FOR:
+
+https://jsfiddle.net/cristian095/vthx7z4p/30/
+
+WHIILE:
+
+https://jsfiddle.net/cristian095/s6gkbLwu/16/
+
+
+DO WHILE:
+
+https://jsfiddle.net/cristian095/s6gkbLwu/29/
+
+
+
+Ús de sentències de decisió
+
+IF
+
+https://jsfiddle.net/cristian095/nuwm18dr/22/
+
+IF/ELSE
+
+https://jsfiddle.net/cristian095/q4v6wpu8/11/
+
+ELSE/IF
+
+https://jsfiddle.net/cristian095/xncahpym/8/
+
+Crida de funcions
+
+https://jsfiddle.net/cristian095/51mue76L/4/
