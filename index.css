@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(169, 132, 172);
+}
+
+.navbar{
+    background-color:rgb(129, 112, 112);
+    font-family:fantasy;
+    
+   
+}
+
+a:hover{
+    color: white;
+}
+
+.navbar-brand{
+   color: black;
+}
+
+.nav-link{
+    color: black;
+}
+
+.nav-link:hover{
+    color: white;
+
+}
+
+
